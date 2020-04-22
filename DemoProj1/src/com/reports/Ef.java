@@ -6,5 +6,12 @@ public class Ef
 	{
 		System.out.println("hello");
 	}
+	
+	public static void main(String[] args) 
+	{
+		Ef e=new Ef();
+		e.m3();
+		
+	}
 
 }
