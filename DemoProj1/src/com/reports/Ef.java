@@ -6,6 +6,7 @@ public class Ef
 	{
 
 		System.out.println("hello 1234");
+		System.out.println("hi, checking ignoring of files");
 
 	}
 	
