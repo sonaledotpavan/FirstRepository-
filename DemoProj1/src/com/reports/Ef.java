@@ -10,6 +10,10 @@ public class Ef
 	{
 		System.out.println("This is m1 method");
 	}
+	public static void m5()
+	{
+		System.out.println("m5 method");
+	}
 	
 	public static void main(String[] args) 
 	{
